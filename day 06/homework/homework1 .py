@@ -1,2 +1,2 @@
-sport = input("football:")
+sport = input("what is your favourite sport?:")
 print(sport)
